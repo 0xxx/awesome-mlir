@@ -15,7 +15,7 @@
 - [ONNX-MLIR](https://github.com/onnx/onnx-mlir)
 - [MLIR-based AIEngine toolchain](https://github.com/Xilinx/mlir-aie)
 - [MLIR EmitC](https://github.com/iml130/mlir-emitc)
-- [https://github.com/intel/mlir-extensions](https://github.com/intel/mlir-extensions)
+- [mlir-extensions](https://github.com/intel/mlir-extensions)
 - [QCOR](https://github.com/qir-alliance/qcor)
 - [BUDDY MLIR](https://github.com/buddy-compiler/buddy-mlir)
 
